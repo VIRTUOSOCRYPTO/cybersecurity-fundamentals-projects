@@ -1,1 +1,4 @@
+http
+dns
+tcp.port == 80
 
