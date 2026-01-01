@@ -1,0 +1,4 @@
+[INFO] User registration successful: admin
+[INFO] Password stored as SHA-256 hash
+[INFO] Login attempt successful for user: admin
+[WARNING] Failed login attempt for user: guest
