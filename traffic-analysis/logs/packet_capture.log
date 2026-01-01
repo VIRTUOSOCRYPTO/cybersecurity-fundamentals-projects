@@ -1,0 +1,8 @@
+Frame 45: 342 bytes on wire
+Ethernet II
+Internet Protocol Version 4
+Transmission Control Protocol
+Hypertext Transfer Protocol
+
+GET /index.html HTTP/1.1
+Host: testsite.local
