@@ -6,48 +6,6 @@ This repository contains a collection of hands-on cybersecurity projects develop
 
 The work focuses on understanding real-world security issues, identifying common vulnerabilities, and applying basic defensive security practices using industry-standard tools in controlled lab environments.
 
-📂 Repository Structure
-cybersecurity-fundamentals-projects/
-│
-├── README.md
-│
-├── network-recon/
-│   ├── nmap_commands.txt
-│   ├── scan_results.txt
-│   ├── findings_report.md
-│   └── logs/
-│       ├── nmap_scan.log
-│       └── nmap_service_detection.log
-│
-├── web-vulnerability-testing/
-│   ├── burp_requests.txt
-│   ├── vulnerability_report.md
-│   └── logs/
-│       ├── burp_proxy.log
-│       └── burp_repeater.log
-│
-├── password-manager/
-│   ├── password_manager.py
-│   ├── README.md
-│   └── logs/
-│       └── app.log
-│
-├── traffic-analysis/
-│   ├── wireshark_filters.txt
-│   ├── analysis_report.md
-│   └── logs/
-│       ├── packet_capture.log
-│       └── dns_capture.log
-│
-├── linux-security/
-│   ├── hardening_commands.sh
-│   ├── security_notes.md
-│   └── logs/
-│       ├── auth.log
-│       └── ufw.log
-│
-└── docs/
-    └── final_report.md
 
 1️⃣ Network Reconnaissance & Port Scanning
 🎯 Objective
